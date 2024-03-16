@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kalaiselvan
-- 👀 I’m interested in Software Development and Testing.
-- 🌱 I’m currently learning Software Testing and DSA
-- 💞️ I’m looking to collaborate on Projects
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently DSA
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 Reach me on posttokalai@gmail.com
 
 <!---
