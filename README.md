@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently DSA
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 Reach me on posttokalai@gmail.com
+- 📫 Reach me on posttokalai@gmail.com or kalaiselvanshares@gmail.com
 
 <!---
 Kalaisgit/Kalaisgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
