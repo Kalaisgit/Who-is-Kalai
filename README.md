@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalaiselvan
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA, Web Development.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 Reach me on posttokalai@gmail.com or kalaiselvanshares@gmail.com
 
